@@ -47,7 +47,7 @@ let letter = '';
     count++;
     index = 0;
   }
-  setTimeout(type, 500)
+  setTimeout(type, 400)
 })();
 
 // DARK MODE
