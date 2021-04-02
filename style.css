@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
-@import url('https://db.onlinewebfonts.com/c/5d73db06d760d7ebb4b1057e1a444a40?family=Againts');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Kaushan+Script&display=swap');
 
 * {
     padding: 0;
@@ -224,7 +223,7 @@ nav li:last-child:hover {
 
 /* Heading */
 .heading {
-    font-family: "Againts";
+    font-family: 'Kaushan Script', cursive;
     margin: 1rem;
     padding: 1rem;
     text-align: center;
